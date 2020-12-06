@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Cranberry\\source\\repos\\Cognitive-map\\CognitiveMap\\CognitiveMap\\CognitiveMap.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Cranberry\\source\\repos\\Cognitive-map\\CognitiveMap\\CognitiveMap\\CognitiveMap.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cranberry\\source\\repos\\Cognitive-map\\CognitiveMap\\CognitiveMap\\CognitiveMap.csproj",
+        "projectName": "CognitiveMap",
+        "projectPath": "C:\\Users\\Cranberry\\source\\repos\\Cognitive-map\\CognitiveMap\\CognitiveMap\\CognitiveMap.csproj",
+        "packagesPath": "C:\\Users\\Cranberry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cranberry\\source\\repos\\Cognitive-map\\CognitiveMap\\CognitiveMap\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cranberry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "CommandLineParser": {
+              "target": "Package",
+              "version": "[2.8.0, )"
+            },
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[4.12.0, )"
+            },
+            "MathNet.Numerics.Data.Text": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "ScottPlot": {
+              "target": "Package",
+              "version": "[4.0.42, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "SqJsAawDhEk5w10NnlanU2AfpEwcIq/zmkpJ2W4jgR+fcSFues767sMI5oANwdQS+Mv+LeAszv9Zq8YsvuJS1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cranberry\\source\\repos\\Cognitive-map\\CognitiveMap\\CognitiveMap\\CognitiveMap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cranberry\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",
+    "C:\\Users\\Cranberry\\.nuget\\packages\\mathnet.numerics\\4.12.0\\mathnet.numerics.4.12.0.nupkg.sha512",
+    "C:\\Users\\Cranberry\\.nuget\\packages\\mathnet.numerics.data.text\\4.0.0\\mathnet.numerics.data.text.4.0.0.nupkg.sha512",
+    "C:\\Users\\Cranberry\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Cranberry\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Cranberry\\.nuget\\packages\\scottplot\\4.0.42\\scottplot.4.0.42.nupkg.sha512",
+    "C:\\Users\\Cranberry\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
